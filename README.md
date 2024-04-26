@@ -1,2 +1,2 @@
-aiueo
-  kakikukeko
+aiueo  
+kakikukeko
