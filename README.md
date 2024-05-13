@@ -6,4 +6,4 @@ As described in Materials and Methods 4-2, the treefile used to create the phylo
   As described in Materials and Methods 5-2, the treefile used to show species with isethionate metabolizing enzymes has been uploaded.
 
 ## sequence
-  As described in Materials and Methods 2, The sequences of the genes encoding IslA and IslB, which comprise Isethionate Lyase with codon optimizations for E. coli, has been uploaded.
+  As described in Materials and Methods 2, the sequences of the genes encoding IslA and IslB, which comprise Isethionate Lyase with codon optimizations for E. coli, has been uploaded.
